@@ -1,0 +1,1 @@
+added the simple footer
